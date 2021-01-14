@@ -1,0 +1,52 @@
+/* html {
+ scroll-behavior: smooth;   
+}
+*/
+
+body {
+ background-color: aliceblue;
+}
+
+.px-3 {
+ padding: 0px 20px;   
+}
+
+.text-center {
+ text-align:center;   
+}
+
+.flex-parent {
+ display: flex;
+
+}
+
+.justify-around {
+ justify-content: space-around;    
+}
+
+.nav-box {
+    padding: 5px 10px;
+    background-color: deepskyblue;
+    border: 2px solid indigo;
+}
+
+.content-box {
+    padding: 10px;
+    margin: 10px;
+    background-color: ivory;
+    border: 2px solid black;
+}
+
+.third {
+    width: 30%;   
+}
+
+.img-full {
+ width: 100%;   
+}
+
+
+.img-small {
+ width: 20%;
+ height: 100%;
+}
